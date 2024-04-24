@@ -26,7 +26,7 @@ const Header = () => {
         variant="h6"
         component="div"
         sx={{ flexGrow: 1, my: 2 }}
-      >Golden Spice House
+      >Swadh Restaurant
         {/* <img src={Logo} alt="logo" height={"70"} width="200" /> */}
       </Typography>
       <Divider sx={{ backgroundColor: "#ffffff" }} />
@@ -70,7 +70,7 @@ const Header = () => {
               variant="h6"
               component="div"
               sx={{ flexGrow: 1 }}
-            > Golden Spice House
+            > Swadh Restaurant
               {/* <img src={Logo} alt="logo" height={"70"} width="250" /> */}
             </Typography>
             <Box sx={{ display: { xs: "none", sm: "block" }, }}>

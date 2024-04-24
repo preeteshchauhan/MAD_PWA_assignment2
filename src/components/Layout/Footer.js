@@ -36,7 +36,7 @@ const Footer = () => {
             },
           }}
         >
-          All Rights Reserved &copy; Dhruuv Naik
+          All Rights Reserved &copy; Preetesh Chauhan
         </Typography>
       </Box>
     </>

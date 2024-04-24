@@ -20,31 +20,32 @@ const About = () => {
           },
         }}
       >
-        <Typography variant="h4">Welcome to Golden Spice House</Typography>
+        <Typography variant="h4">Welcome to Swadh Restaurant</Typography>
         <p>
-          Welcome to Golden Spice House, where culinary excellence meets passion
-          and innovation. Our journey began with a vision to redefine the dining
-          experience in the heart of Mumbai. Rooted in a deep commitment to
-          customer satisfaction and a love for culinary arts, we aim to deliver
-          exceptional dishes and services that go beyond expectations.
-          At Golden Spice House, our dedicated team of professionals is driven
-          by a shared passion for quality, integrity, and continuous
-          improvement. We believe in creating unforgettable dining moments by
-          understanding our guests' unique preferences and crafting tailored
-          culinary experiences that leave a lasting impression.
+          Welcome to Swadh Restaurant, where culinary artistry meets tradition
+          and innovation. Our story began with a vision to redefine dining
+          experiences in the vibrant city of Thane. Grounded in a profound
+          commitment to customer satisfaction and a deep love for culinary
+          craftsmanship, we strive to offer exceptional cuisine and service that
+          exceed expectations. At Swadh Restaurant, our dedicated team of
+          culinary experts is fueled by a shared passion for excellence,
+          authenticity, and continual enhancement. We believe in curating
+          memorable dining experiences by understanding our patrons' individual
+          preferences and crafting bespoke culinary journeys that leave a
+          lasting impression.
         </p>
         <br />
         <p>
-          Beyond our culinary creations, we are committed to making a positive
-          impact on our community and the environment. Through sustainable
-          practices, social responsibility initiatives, and ethical business
-          conduct, we strive to contribute meaningfully to society while
-          ensuring a greener future for generations to come.
-          Join us at Golden Spice House on this exciting journey as we continue
-          to innovate, grow, and make a difference in the world, one delightful
-          dish at a time. Thank you for choosing Golden Spice House for your
-          dining experience. Cheers to good food, great memories, and a brighter
-          tomorrow!
+          Beyond our culinary offerings, we are dedicated to making a positive
+          impact on our community and environment. Through sustainable
+          practices, community engagement initiatives, and ethical business
+          practices, we aspire to contribute meaningfully to society while
+          ensuring a sustainable future for generations to come. Join us at
+          Swadh Restaurant on this exciting gastronomic adventure as we continue
+          to innovate, evolve, and make a positive difference in the world, one
+          delectable dish at a time. Thank you for choosing Swadh Restaurant for
+          your dining experience. Here's to good food, cherished moments, and a
+          brighter tomorrow!
         </p>
       </Box>
     </Layout>
